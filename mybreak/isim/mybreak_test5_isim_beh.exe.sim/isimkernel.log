@@ -1,0 +1,28 @@
+Command line:
+   mybreak_test5_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64913
+
+Fri May 20 13:12:39 2016
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 840.774 Meg
+
+ Total Signals          : 32
+ Total Nets             : 32
+ Total Signal Drivers   : 21
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 6
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 410
+
+ Total Simulation Time: 2.79688 sec
+
+ Current Memory Usage: 368.914 Meg
+
+Fri May 20 13:58:12 2016
+

@@ -1,0 +1,5 @@
+set -tmpdir "D:/ISE/mybreak/xst/projnav.tmp"
+set -xsthdpdir "D:/ISE/mybreak/xst"
+elaborate
+-ifn mybreak.prj
+-ifmt mixed

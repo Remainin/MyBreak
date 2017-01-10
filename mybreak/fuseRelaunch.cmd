@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ISE/mybreak/mybreak_test5_isim_beh.exe" -prj "D:/ISE/mybreak/mybreak_test5_beh.prj" "work.mybreak_test5" 
